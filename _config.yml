@@ -3,7 +3,7 @@ title: Ruby Michele Thompson
 subtitle: Master of Business Administration & Master of Science in Data Science Candidate
 email: RubyMicheleThompson@gmail.com
 description: Portfolio of relevant project from MBA/MSDS Candidate Ruby Thompson.
-baseurl: "/RubyMicheleThompson" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Ruby Thompson
 street_address: 900 State St 
